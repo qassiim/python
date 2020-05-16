@@ -1,6 +1,0 @@
-print ('me')
-print('nnn')
-print("FFFFFFFFFF")
-print('hi')
-print(5+5)
-print(10+10)
